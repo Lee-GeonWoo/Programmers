@@ -11,7 +11,6 @@ def solution(nums):
                 break
         else:
             answer += 1
-
     return answer
   
 '''
@@ -28,7 +27,6 @@ def solution(nums):
                     if sum % l == 0:
                         break
                 else:
-                    answer += 1        
-    
+                    answer += 1
     return answer
 '''
