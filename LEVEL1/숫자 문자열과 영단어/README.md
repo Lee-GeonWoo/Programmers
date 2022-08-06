@@ -1,4 +1,5 @@
 ### 숫자 문자열과 영단어
+<hr></hr>
 
 #### 문제 설명
 ![image](https://user-images.githubusercontent.com/70263403/183064230-bf2fa50d-e520-4ced-96b4-d276b225ede1.png)
