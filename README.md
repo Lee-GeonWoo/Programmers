@@ -2,4 +2,4 @@
 > 프로그래머스 문제 풀이
 
 * <a href='https://github.com/Lee-GeonWoo/programmers/tree/main/LEVEL1'>LEVEL1</a> 
-* <a href='https://github.com/Lee-GeonWoo/programmers/tree/main/LEVEL2'>LEVEL2</a> 
+* <a href='https://github.com/Lee-GeonWoo/programmers/tree/main/LEVEL2'><s>LEVEL2</s></a> 
