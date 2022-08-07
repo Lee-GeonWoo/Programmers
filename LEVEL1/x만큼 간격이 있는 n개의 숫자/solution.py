@@ -7,7 +7,7 @@ def solution(x, n):
     return answer
 
   
-# or (한 줄로 )
+# 간결하게 작성
 '''
 def solution(x, n):
     return [i * x for i in range(1, n+1)]
