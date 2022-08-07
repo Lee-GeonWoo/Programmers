@@ -7,3 +7,9 @@ def solution(arr, divisor):
     if len(answer) == 0:
         answer.append(-1)
     return sorted(answer)
+
+'''
+# 간결하게 작성
+def solution(arr, divisor):
+    return sorted([x for x in arr if x % divisor == 0]) or [-1]
+'''
