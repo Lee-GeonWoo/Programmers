@@ -9,7 +9,7 @@ def solution(n):
     return int(''.join(answer))
   
   
-# 다른 사람의 풀이를 
+# 다른 사람의 풀이를 참고한 
 '''
 def solution(n):
     a = list(str(n))
