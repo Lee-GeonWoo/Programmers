@@ -1,4 +1,4 @@
-# 타임 아웃 뜬 코드
+# 타임 아웃 뜬 코드 (에라토스테네스의 체 방법)
 '''
 from itertools import permutations
 
@@ -24,7 +24,6 @@ def solution(numbers):
 '''
 
 # 다른 사람의 코드
-
 from itertools import permutations
 
 def solution(numbers):
